@@ -66,7 +66,7 @@ void printList(struct Node* head) {
 
 int main() {
     int n, m, value;
-    struct Node* list1 = NULL
+    struct Node* list1 = NULL;
     struct Node* list2 = NULL;
 
     // Input first list
